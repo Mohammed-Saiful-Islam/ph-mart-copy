@@ -28,6 +28,7 @@
 
     .hero-section {
         flex-direction: column;
+        height: 80vh;
     }
 
     .hero-section .hero-content {
